@@ -33,8 +33,8 @@
 ### 🛠️ Core Stack
 - **Languages:** C#, TypeScript  
 - **Backend:** .NET, Node.js  
-- **Architecture:** DDD, Hexagonal  
-- **Infrastructure:** Docker  
+- **Architecture:** Clean Architecture, Hexagonal  
+- **Infrastructure:** Docker, Coolify, Azure  
 
 ## 📫 Let’s Connect
 
