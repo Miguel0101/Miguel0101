@@ -13,16 +13,12 @@
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Miguel0101&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" 
-    width="88%" 
+    width="45%" 
   />
-</p>
-
-<br />
-
-<p align="center">
+  &nbsp;&nbsp;
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel0101&theme=vision-friendly-dark&hide_border=true&layout=compact" 
-    width="65%" 
+    width="34%" 
   />
 </p>
 
